@@ -39,7 +39,7 @@ byte-multiturn-chatbot/
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/byte-multiturn-chatbot.git
+git clone https://github.com/sreekuttysanthosh/byte-multiturn-chatbot.git
 cd byte-multiturn-chatbot
 ```
 
